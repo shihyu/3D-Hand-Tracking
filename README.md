@@ -12,4 +12,4 @@ In the field of image processing, hand/finger tracking is a high-resolution tech
 
 张杰 - luoyetx@gmail.com
 
-谢峰 - xiefenghust@gmail.com
+谢锋 - xiefenghust@gmail.com
