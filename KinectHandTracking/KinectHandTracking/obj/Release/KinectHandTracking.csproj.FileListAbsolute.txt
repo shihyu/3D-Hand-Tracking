@@ -1,0 +1,15 @@
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Release\KinectHandTracking.exe.config
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Release\KinectHandTracking.exe
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Release\KinectHandTracking.pdb
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Release\Microsoft.Kinect.dll
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\bin\Release\Microsoft.Kinect.xml
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\MainWindow.baml
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\App.baml
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\MainWindow.g.cs
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\App.g.cs
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\KinectHandTracking_MarkupCompile.cache
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\KinectHandTracking.g.resources
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\KinectHandTracking.Properties.Resources.resources
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\KinectHandTracking.csproj.GenerateResource.Cache
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\KinectHandTracking.exe
+E:\Download\KinectHandTracking\KinectHandTracking\KinectHandTracking\obj\Release\KinectHandTracking.pdb
