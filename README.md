@@ -46,6 +46,14 @@ We will use Microsoft Kinect v2 for this project. Detecting the human hand in a 
 
 ![full](img/full.png)
 
+## Project
+
+我们利用 Kinect 设备做了这次 Project。利用 Kinect SDK 提供的功能，通过人体骨架追踪来定位跟踪人的手，同时 Kinect SDK 还提供了检测手状态的接口，可以获取手张开和闭合的状态。为了方便代码的编写和与 Kinect 的交互，我们 C# 写了这次 Project 的代码，代码都在 [`KinectHandTracking`](KinectHandTracking) 下，需要 Kinect 设备和安装 Kinect SDK 才能运行。程序运行时的截图如下。
+
+![project-snapshot](img/project-snapshot.jpg)
+
+蓝色空心圈表示检测到了手的位置，同时手处于张开状态，蓝色实心圈则表示手处于闭合状态。实验视频将在课堂上做演示。
+
 ## References
 
 - Fast and Robust Hand Tracking Using Detection-Guided Optimization, In CVPR, 2015.
