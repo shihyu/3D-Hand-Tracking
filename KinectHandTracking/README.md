@@ -16,7 +16,7 @@ KinectHandTracking
 
 ## 如何运行
 
-1. 需要 Kinect 2 sheb
+1. 需要 Kinect 2 设备
 2. 安装 [Kinect SDK](https://developer.microsoft.com/en-us/windows/kinect)
 3. 安装 [Visual Studio](https://www.visualstudio.com/)
 4. 下载代码 `git clone git@github.com:NanYANG2015/3D-Hand-Tracking.git`
